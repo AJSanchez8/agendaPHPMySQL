@@ -1,7 +1,6 @@
 ## Pasos: 
 
-- 1º.- Iniciar contenedor docker-compose con ```bash
- docker-compose up -d```.
+- 1º.- Iniciar contenedor docker-compose con ```docker-compose up -d```.
 - 2º.- Crear base de datos llamada entornoServidor. El docker-compose tiene en el puerto 8081 un phpmyadmin.
 - 3º.- Crear tabla dentro de esa base de datos 
     ```sql 
